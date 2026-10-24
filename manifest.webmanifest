@@ -1,0 +1,11 @@
+{
+  "name": "今天，慢慢來｜時間規劃",
+  "short_name": "今天慢慢來",
+  "description": "簡單整理今天行程與待辦事項",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#397b62",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
